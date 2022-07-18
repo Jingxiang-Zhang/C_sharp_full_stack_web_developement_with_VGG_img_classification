@@ -1,0 +1,272 @@
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场\三元养牛场-
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-22 17:21:11.547520
+0/100: 损失函数：1.7315946; 当前准确率：10.9375
+1/100: 损失函数：0.9090013; 当前准确率：56.25
+2/100: 损失函数：0.4503166; 当前准确率：89.0625
+3/100: 损失函数：0.19017959; 当前准确率：96.875
+训练暂停
+结束时间：2020-01-22 17:22:38.703572
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-22 19:53:08.627278
+0/100: 损失函数：1.1601338; 当前准确率：34.375
+1/100: 损失函数：0.53419983; 当前准确率：92.1875
+2/100: 损失函数：0.23203164; 当前准确率：98.4375
+3/100: 损失函数：0.2132479; 当前准确率：96.875
+4/100: 损失函数：0.029214758; 当前准确率：100.0
+5/100: 损失函数：0.028238796; 当前准确率：100.0
+6/100: 损失函数：0.015341101; 当前准确率：100.0
+7/100: 损失函数：0.011185416; 当前准确率：100.0
+8/100: 损失函数：0.009956863; 当前准确率：100.0
+训练暂停
+结束时间：2020-01-22 19:56:19.703185
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-22 21:22:10.618357
+0/100: 损失函数：1.084534; 当前准确率：50.0
+1/100: 损失函数：0.5628925; 当前准确率：81.25
+2/100: 损失函数：0.17379954; 当前准确率：95.3125
+3/100: 损失函数：0.091322035; 当前准确率：100.0
+4/100: 损失函数：0.1361954; 当前准确率：100.0
+5/100: 损失函数：0.052359473; 当前准确率：100.0
+训练暂停
+结束时间：2020-01-22 21:24:14.971953
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 6
+newtrain: false
+训练开始，时间：2020-01-22 21:29:57.400889
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-22 21:31:29.720247
+0/100: 损失函数：1.1602259; 当前准确率：43.75
+1/100: 损失函数：0.5395908; 当前准确率：73.4375
+2/100: 损失函数：0.24721816; 当前准确率：95.3125
+训练暂停
+结束时间：2020-01-22 21:32:23.162063
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 3
+newtrain: false
+训练开始，时间：2020-01-22 21:33:10.928029
+3/100: 损失函数：0.061455943; 当前准确率：100.0
+4/100: 损失函数：0.016133945; 当前准确率：100.0
+5/100: 损失函数：0.01609085; 当前准确率：100.0
+6/100: 损失函数：0.014174594; 当前准确率：100.0
+训练暂停
+结束时间：2020-01-22 21:34:24.522023
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场 - 副本
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场 - 副本.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场 - 副本\三元养牛场 - 副本-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场 - 副本.txt
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-22 21:34:51.225022
+0/100: 损失函数：1.5249476; 当前准确率：9.375
+1/100: 损失函数：0.70479846; 当前准确率：56.25
+2/100: 损失函数：0.28901204; 当前准确率：92.1875
+3/100: 损失函数：0.14475389; 当前准确率：100.0
+训练暂停
+结束时间：2020-01-22 21:36:05.159492
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 7
+newtrain: false
+训练开始，时间：2020-01-22 22:06:20.781012
+7/100: 损失函数：0.009947062; 当前准确率：100.0
+8/100: 损失函数：0.015908154; 当前准确率：100.0
+训练暂停
+结束时间：2020-01-22 22:06:56.512973
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 9
+newtrain: false
+训练开始，时间：2020-01-22 22:07:46.424537
+9/100: 损失函数：0.010541955; 当前准确率：100.0
+训练暂停
+结束时间：2020-01-22 22:08:03.665812
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 10
+newtrain: false
+训练开始，时间：2020-01-22 22:12:37.578701
+10/100: 损失函数：0.007536011; 当前准确率：100.0
+训练暂停
+结束时间：2020-01-22 22:12:54.882775
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\三元养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\三元养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\三元养牛场\三元养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\三元养牛场.txt
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-25 21:44:32.467468
+0/100: 损失函数：1.371061; 当前准确率：32.8125
+1/100: 损失函数：0.44648844; 当前准确率：90.625
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\伊利养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\伊利养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\伊利养牛场\伊利养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\伊利养牛场.txt
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-25 21:45:19.581396
+2/100: 损失函数：0.26869088; 当前准确率：85.9375
+0/100: 损失函数：1.0178221; 当前准确率：50.0
+3/100: 损失函数：0.18763256; 当前准确率：90.625
+训练暂停
+结束时间：2020-01-25 21:45:47.889244
+
+1/100: 损失函数：0.41021633; 当前准确率：82.8125
+训练暂停
+结束时间：2020-01-25 21:45:57.514431
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\蒙牛养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\蒙牛养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\蒙牛养牛场\蒙牛养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\蒙牛养牛场.txt
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-25 21:46:21.456051
+0/100: 损失函数：1.5696412; 当前准确率：17.1875
+1/100: 损失函数：0.92490834; 当前准确率：56.25
+2/100: 损失函数：0.42460203; 当前准确率：90.625
+训练暂停
+结束时间：2020-01-25 21:47:15.233058
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\伊利养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\伊利养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\伊利养牛场\伊利养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\伊利养牛场.txt
+traintimes: 100
+nowtimes: 2
+newtrain: false
+训练开始，时间：2020-01-26 07:57:41.591712
+2/100: 损失函数：0.18582612; 当前准确率：85.9375
+3/100: 损失函数：0.11270289; 当前准确率：92.1875
+4/100: 损失函数：0.04787641; 当前准确率：96.875
+训练暂停
+结束时间：2020-01-26 07:58:32.084824
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\伊利养牛场
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\伊利养牛场.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\伊利养牛场\伊利养牛场-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\伊利养牛场.txt
+traintimes: 100
+nowtimes: 2
+newtrain: false
+训练开始，时间：2020-01-26 20:12:31.385923
+2/100: 损失函数：0.09336063; 当前准确率：92.1875
+3/100: 损失函数：0.024604816; 当前准确率：98.4375
+4/100: 损失函数：0.073716804; 当前准确率：93.75
+训练暂停
+结束时间：2020-01-26 20:13:16.503080
+
+
+
+tarinlogloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+picloc: C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\伊利养牛场 - 副本
+resultloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\伊利养牛场 - 副本.txt
+netsaveloc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\伊利养牛场 - 副本\伊利养牛场 - 副本-
+maploc: C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\伊利养牛场 - 副本.txt
+traintimes: 100
+nowtimes: 0
+newtrain: true
+训练开始，时间：2020-01-28 15:55:56.389186
+0/100: 损失函数：0.8656898; 当前准确率：40.625
+1/100: 损失函数：0.30118144; 当前准确率：75.0
+训练暂停
+结束时间：2020-01-28 15:56:30.532433
+

@@ -1,0 +1,10 @@
+﻿traintimes:100
+nowtimes:0
+stop:true
+newtrain:true
+piclocation:C:\Users\lenovo\Desktop\CowCow\CowCow\CowPicture\伊利养牛场 - 副本
+resultloc:C:\Users\lenovo\Desktop\CowCow\CowCow\Python\result\伊利养牛场 - 副本.txt
+saveloc:C:\Users\lenovo\Desktop\CowCow\CowCow\Python\save\伊利养牛场 - 副本\伊利养牛场 - 副本-
+maploc:C:\Users\lenovo\Desktop\CowCow\CowCow\Python\map\伊利养牛场 - 副本.txt
+tarinlogloc:C:\Users\lenovo\Desktop\CowCow\CowCow\Python\trainlog.txt
+errorlogloc:C:\Users\lenovo\Desktop\CowCow\CowCow\Python\errorlog.txt

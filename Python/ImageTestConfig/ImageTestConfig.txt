@@ -1,0 +1,9 @@
+﻿netloc:F:\大三下\URP\软著\CowCow\CowCow\Python\save\三元养牛场\三元养牛场-
+videoloc:F:\大三下\URP\软著\CowCow\CowCow\VideoDate\三元养牛场\北区一号摄像头\video.mp4
+videotimes:3
+ffmpegloc:F:\大三下\URP\软著\CowCow\CowCow\Python\ffmpeg.exe
+map:F:\大三下\URP\软著\CowCow\CowCow\Python\map\三元养牛场.txt
+resultpicloc:F:\大三下\URP\软著\CowCow\CowCow\Python\re.png
+temppicloc:F:\大三下\URP\软著\CowCow\CowCow\Python\temp.png
+stopprocess:true
+classifier:F:\大三下\URP\软著\CowCow\CowCow\Python\cowsort.xml
