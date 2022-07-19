@@ -52,7 +52,7 @@ In this process, I used two methods to detect the cow. One is classical target d
 #### Faster RCNN
 
 <div align="center">
-  <img src="https://github.com/Jingxiang-Zhang/C_sharp_full_stack_web_developement_with_VGG_img_classification/blob/main/README_img/faster_rcnn.png">
+  <img src="https://github.com/Jingxiang-Zhang/C_sharp_full_stack_web_developement_with_VGG_img_classification/blob/main/README_img/faster_rcnn.jpg">
 </div>
 
 ### Set Up Website
